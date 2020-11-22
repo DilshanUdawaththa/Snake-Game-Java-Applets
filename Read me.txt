@@ -1,0 +1,12 @@
+1.Run "SnakeGame.java" file first.
+2.Then you will be displayed my java applets animation game.
+3.Click on the applet once and use arrow keys to handle the snake.
+4.After finishing the game, you will be displayed scores.
+
+
+
+
+D.P Udawaththa
+UWU/CST/17/062
+Computer Science and Informatics Department
+Faculty of Applied Sciences
